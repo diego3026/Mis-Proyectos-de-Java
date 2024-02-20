@@ -1,0 +1,2 @@
+diego;25/11/2002;colombia;2020;69;negro
+Diego Oñate;2/4/2000;Santa Marta;4557;28;ternera
